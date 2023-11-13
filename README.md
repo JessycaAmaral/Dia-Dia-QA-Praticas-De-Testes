@@ -4,7 +4,14 @@
 
 <br /><br />
 
-  Challenge about manual functional testing (O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais) by [DIO](https://web.dio.me/.) <br /><br />
+
+
+ENG -  Challenge about manual functional testing (O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais) by [DIO](https://web.dio.me/.) <br /><br />
+
+
+PT-BR Desafio sobre testes funcionais manuais (O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais) by [DIO](https://web.dio.me/.) <br /><br />
+
+
 
 </div> 
 
